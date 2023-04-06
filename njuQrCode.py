@@ -55,4 +55,4 @@ def getQrContent(login_cookie):
 
 if __name__=='__main__':
     # print(getQrContent("CASTGC=TGT-196633-FhxLaCBjUsdfsdscvxwwlv4eeggreregUqbpnbhpYkBELrralM91660144576435-wMv1-cas;"))
-    print(getQrContent("Put your cookie here to test))
+    print(getQrContent("Put your cookie here to test"))
